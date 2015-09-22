@@ -1,0 +1,7 @@
+Das ist ein Testdatei.
+
+Sie ist die erste und im Master vorhanden.
+
+Ich werde Sie zuerst hinzufügen (add) dann ist sie als Stagin Area danach kommiten um die Versionierung lokal zu haben. Anschliessend mit PULL die ganze sache auf den Server laden.
+
+Autor: M. Wettstein
